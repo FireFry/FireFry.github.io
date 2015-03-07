@@ -8,7 +8,7 @@ baseurl: "" # optional
 url: "burakovv.com"
 #twitter_username: foo_bar
 #github_username: foo_bar
-github_repo: FireFry/FireFry.github.io
+github_repo: foo_bar/foo_bar.github.io
 #google_analytics: UA-80085-YOUR-ID
 # disqus: disqus-id
 

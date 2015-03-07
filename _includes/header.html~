@@ -4,7 +4,6 @@
   </div>
   <div class="links">
   {% assign current = page.title %}
-  {% if false %}
   {% for page in site.pages %}
     {% if page.title and page.permalink != "/404.html" %}
       <a class="page-link{% if current == page.title %} active{% endif %}"
@@ -17,7 +16,6 @@
     class="page-link github-link">
     <img src="/images/github-repo.png" alt="Github Repository">
     Source</a>
-  {% endif %}
   {% endif %}
   </div>
 </header>
